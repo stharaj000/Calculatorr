@@ -62,7 +62,7 @@ namespace CalculatorApp
             }
 
             Console.WriteLine("\nThanks for using my calculator!");
-            //thanks
+            //thank
         }
     }
 }
